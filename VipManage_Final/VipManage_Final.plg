@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VipManage_Final - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA83.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/VipManage_Final.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\mfc\ื๗าต\VipManage_Final\SpliterManageView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA83.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA84.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/VipManage_Final.pdb" /debug /machine:I386 /out:"Debug/VipManage_Final.exe" /pdbtype:sept 
+".\Debug\ChangeVip.obj"
+".\Debug\ChildFrm.obj"
+".\Debug\MainFrm.obj"
+".\Debug\QueryVip.obj"
+".\Debug\SpliterChildFrame.obj"
+".\Debug\SpliterDetailsView.obj"
+".\Debug\SpliterDoc.obj"
+".\Debug\SpliterManageView.obj"
+".\Debug\SpliterTreeView.obj"
+".\Debug\SpliterView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\VipManage_Final.obj"
+".\Debug\VipManage_FinalDoc.obj"
+".\Debug\VipManage_FinalView.obj"
+".\Debug\VipRecord.obj"
+".\Debug\VipManage_Final.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA84.tmp"
+<h3>Output Window</h3>
+Compiling...
+SpliterManageView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+VipManage_Final.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

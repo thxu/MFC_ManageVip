@@ -1,0 +1,2 @@
+001 张三 111 2014-11-03 男 篮球 初级会员 D:\mfc\作业\Manage_Vip\MyImg\Vip.bmp 
+0012 张三2 1112 2014-11-03 男 篮球 初级会员 D:\mfc\作业\Manage_Vip\MyImg\1Vip11.bmp 
